@@ -1,0 +1,31 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "amoozeshi",
+  "main": "script.js",
+  "dependencies": {
+    "basic-instagram-user-details": "^1.0.2",
+    "body-parser": "^1.18.3",
+    "browser-id3-writer": "^4.1.0",
+    "cheerio": "^0.22.0",
+    "download": "^7.1.0",
+    "express": "^4.16.4",
+    "file-system": "^2.2.2",
+    "google-input-tool": "^1.1.0",
+    "instagram-nodejs-without-api": "^1.2.0",
+    "mongoose": "^5.4.10",
+    "node-downloader-helper": "^1.0.10",
+    "nodemon": "^1.18.9",
+    "phantom": "^6.2.0",
+    "remove-id3v1": "^1.1.1",
+    "request": "^2.88.0",
+    "wordpress": "latest",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amir soltaniyan",
+  "license": "ISC"
+}
